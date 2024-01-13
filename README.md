@@ -51,3 +51,15 @@ client -> api gateway -> register service -> controller -> service
 open Eureka 
 
 
+
+# Run API gate way 
+```angular2html
+http://localhost:8765/question-service
+http://localhost:8765/quiz-service
+
+http://localhost:8765/question-service/question/allQuestions
+
+
+```
+
+
